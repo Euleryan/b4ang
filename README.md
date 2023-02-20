@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @b4ang
+- 👋 Hi, I’m @euleryan
 - 👀 I’m interested in Math, Physics and Coding :D
 - 🌱 I’m currently learning Math
 - 💞️ I’m looking to collaborate on everything I can
